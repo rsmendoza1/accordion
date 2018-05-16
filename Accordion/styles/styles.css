@@ -1,0 +1,61 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+.floatLeft {
+	float: left;
+}
+.clear {
+	clear: both;
+}
+h1 {
+	height: 30px;
+	width: 630px;
+	color: #87B03E;
+	padding-left: 15px;
+	padding-top: 2px;
+	margin-bottom: 10px;
+	font-style: italic;
+	font-size: 1.3em;
+}
+h2 {
+	height: 40px;
+	width: 630px;
+	color: #FFF;
+	padding-left: 15px;
+	padding-top: 2px;
+	margin-bottom: 15px;
+	font-style: italic;
+	font-size: 1.3em;
+}
+body {
+	font-family: Tahoma, Geneva, sans-serif;
+	color: #153728;
+}
+p {
+	font-size: .90em;
+}
+#mainContent {
+	height: 600px;
+	width: 815px;
+	margin-right: auto;
+	margin-left: auto;
+	position: relative;
+}
+#navButtons {
+	position: absolute;
+	right: 0px;
+	bottom: 10px;
+	z-index: 99;
+}
+#accordion {
+	padding: 140px 70px 30px 100px;
+	width:630px;
+	font-size: .85em;
+}
+#accordion p {
+	padding-right: 35px;
+}
+#accordion img {
+	padding-right: 10px;
+}
